@@ -41,7 +41,7 @@ Argument 4 - Output file name for the trajectories of each body (user defined)
 Argument 5 - Output file name for the orbital data of the bodies (user defined)
 
 -
-1) To run the simulation, type - python3 work-in-progress.py bodies.txt simparams.txt trajectory.xyz orbit.txt - into the terminal whilst in the root folder containing all the files.
+1) To run the simulation, type - python3 Solar-System.py bodies.txt simparams.txt trajectory.xyz orbit.txt - into the terminal whilst in the root folder containing all the files.
 
 2) To visualise the data from the trajectory.xyz file, type: vmd trajectory.xyz - into the terminal (whilst in the root folder). This should open VMD with the trajectory file. The visualisation method by default is not useful therefore going to settings - Select “points” - Set Size ~ 10. This should display the bodies as points that can be seen on screen. To see the orbital motion of the planets sketched out smooth out the motion for the data, which will require at least a full orbit of pluto to see its motion. 
 
