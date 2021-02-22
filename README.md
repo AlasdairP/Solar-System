@@ -30,11 +30,16 @@ Output Files - Names are arbitrary
 
 To run the simulation, these are the arguments needed in the command line, in order.
 -
-Argument 1 - Main file \n
+Argument 1 - Main file
+
 Argument 2 - Input file for the initial conditions of each planet and celestial body (position, velocity & mass)
+
 Argument 3 - Input file for the conditions of the simulation (time-step and duration)
+
 Argument 4 - Output file name for the trajectories of each body (user defined) 
+
 Argument 5 - Output file name for the orbital data of the bodies (user defined)
+
 -
 1) To run the simulation, type - python3 work-in-progress.py bodies.txt simparams.txt trajectory.xyz orbit.txt - into the terminal whilst in the root folder containing all the files.
 
