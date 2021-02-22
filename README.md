@@ -30,7 +30,7 @@ Output Files - Names are arbitrary
 
 To run the simulation, these are the arguments needed in the command line, in order.
 -
-Argument 1 - Main file
+Argument 1 - Main file \n
 Argument 2 - Input file for the initial conditions of each planet and celestial body (position, velocity & mass)
 Argument 3 - Input file for the conditions of the simulation (time-step and duration)
 Argument 4 - Output file name for the trajectories of each body (user defined) 
